@@ -1,15 +1,5 @@
 # Host Your MERN Stack Project Almost Free (30k Monthly Active Users)
 
-Perfect 👍 — below is your **ready-to-publish GitHub Markdown guide** — formatted, detailed, and developer-friendly in **Hinglish** (so devs + students both can understand easily).
-
-This file uses **npm commands** and focuses on **MERN hosting for 30k MAU**, using cheap or free infra.
-
-👉 Save this as:
-`HOST_MERN_CHEAP_GUIDE.md`
-and push it directly to your GitHub repo (it’ll render beautifully).
-
----
-
 ````markdown
 # 💸 How to Host Your MERN Stack Project Almost Free (30k MAU Setup)
 
