@@ -1,6 +1,5 @@
 # Host Your MERN Stack Project Almost Free (30k Monthly Active Users)
 
-````markdown
 # 💸 How to Host Your MERN Stack Project Almost Free (30k MAU Setup)
 
 **Author:** [Kaushal Kishor](https://github.com/developerkaushalkishor)  
@@ -37,7 +36,8 @@ Free static site hosting with unlimited bandwidth + free SSL.
 1. Build your React app  
    ```bash
    npm run build
-````
+   ```
+
 
 2. Push your code to GitHub.
 3. Go to [Cloudflare Pages](https://pages.cloudflare.com)
